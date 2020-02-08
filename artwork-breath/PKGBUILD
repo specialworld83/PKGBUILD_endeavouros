@@ -4,7 +4,7 @@
 pkgbase=artwork-endeavouros-dark
 pkgname=('endeavouros-icon-theme' 'endeavouros-dark-icon-theme' 'plasma5-themes-endeavouros' 'sddm-endeavouros-theme' )
 pkgver=6
-pkgrel=17
+pkgrel=18
 url=https://www.codelinsoft.it/updates/
 arch=('any')
 license=('LGPL')
